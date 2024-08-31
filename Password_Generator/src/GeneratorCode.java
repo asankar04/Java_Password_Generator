@@ -21,7 +21,7 @@ public class GeneratorCode {
 		
 	//Getting User Preference
 		System.out.println("Welcome! To begin generating your password, enter the requirements down below");
-		System.out.print("Enter the total length: ");
+		System.out.print("Enter the password length: ");
 		int passwordLength = input.nextInt();
 		input.nextLine();
 		
